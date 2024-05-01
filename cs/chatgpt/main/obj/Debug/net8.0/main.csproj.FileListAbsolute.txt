@@ -1,0 +1,17 @@
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\main.exe
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\main.deps.json
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\main.runtimeconfig.json
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\main.dll
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\main.pdb
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.dll
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\refint\main.dll
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.pdb
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\ref\main.dll
+F:\College\cs\chatgpt\main\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.csproj.AssemblyReference.cache
+F:\College\cs\chatgpt\main\obj\Debug\net8.0\main.csproj.Up2Date
